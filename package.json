@@ -1,0 +1,25 @@
+{
+  "name": "bigwhale",
+  "version": "0.0.1",
+  "description": "MVP ",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonghwanko/dev.git"
+  },
+  "author": "turbo08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonghwanko/dev/issues"
+  },
+  "homepage": "https://github.com/jeonghwanko/dev#readme"
+}

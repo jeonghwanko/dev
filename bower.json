@@ -1,0 +1,21 @@
+{
+  "name": "bigwhale",
+  "description": "MVP",
+  "main": "app.js",
+  "authors": [
+    "turbo08"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jeonghwanko/dev",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2",
+    "bootstrap": "^4.6.0"
+  }
+}
