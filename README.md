@@ -1,5 +1,4 @@
 /*
-
 1) git branch
   - main = 개발 소스
   - service_kr = 서비스 소스 / tag달아서 버전 관리
@@ -14,6 +13,18 @@
       - google/facebook api keys
     : endpoint (서버환경변수)
       - database host
+3) 소스 layout
+  + bigwhale
+    + web
+      - public  = static 이미지 등
+      - routes = url 소스 코드
+      - views = url html 코드
+      - config = 인증
+      - api = webhook 코드
+    + database
+      - sql
+      - script
+    + bin = crontab 스케쥴
 */
 
 npm init
