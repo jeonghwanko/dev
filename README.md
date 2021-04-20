@@ -13,6 +13,8 @@
       - google/facebook api keys
     : endpoint (서버환경변수)
       - database host
+      - redis
+      - 내부hosts 파일 (web1, web2,....)
 3) 소스 layout
   + bigwhale
     + web
