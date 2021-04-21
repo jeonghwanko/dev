@@ -5,7 +5,7 @@
 
 
 2) 서버환경
-  - 테스트환경 = ec2 + rds = main
+  - 테스트환경 = ec2 + rds + redis = main
   - 서비스환경
 
   TODO
